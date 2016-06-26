@@ -82,32 +82,7 @@ Les modalités de convocation sont les mêmes que pour l'assemblée générale o
 Les délibérations sont prises à la majorité des suffrages exprimés.
 
 
-ARTICLE 11 - CONSEIL D'ADMINISTRATION
--------------------------------------
-
-**Facultatif, voir si on décide d'en former un. A priori je pense que ce n'est pas nécessaire**
-
-La loi de 1901 n'impose pas l'existence d'un conseil d'administration ou d'un bureau. Ce n'est qu'un usage, pratique et très répandu.
-
-L'association est dirigée par un conseil de X membres, élus pour X années par l'assemblée générale. Les membres sont rééligibles.
-
-Le conseil étant renouvelé chaque année par moitié, la première année, les membres sortants sont désignés par tirage au sort.
-Le renouvellement des membres du conseil par fraction est préférable.
-
-En cas de vacances, le conseil pourvoit provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif par la plus prochaine assemblée générale. Les pouvoirs des membres ainsi élus prennent fin à l'expiration le mandat des membres remplacés.
-(Distinguer clairement les prérogatives de l'AG et du CA concernant par exemple les modalités de représentation de l'association en justice, etc.)
-
-Le conseil d'administration se réunit au moins une fois tous les six mois, sur convocation du président, ou à la demande du quart de ses membres. Les réunions du conseil peuvent être plus fréquentes.
-
-Les décisions sont prises à la majorité des voix; en cas de partage, la voix du président est prépondérante.
-
-Tout membre du conseil qui, sans excuse, n'aura pas assisté à trois réunions consécutives sera considéré comme démissionnaire.
-
-Le conseil d'administration peut déléguer tel ou tel de ses pouvoirs, pour une durée déterminée, à un ou plusieurs de ses membres (signature d'un bail des chèques, etc.).
-
-Depuis 2011, des précisions ont été apportées, par un nouvel article 2 bis, à la loi du 1er juillet 1901 pour faciliter la création et la gestion d'une association par des mineurs. Télécharger la plaquette du ministère chargé de la vie associative
-
-ARTICLE 12 - LE BUREAU
+ARTICLE 11 - LE BUREAU
 ----------------------
 
 Le conseil d'administration élit parmi ses membres, un bureau composé de :
@@ -118,18 +93,18 @@ Le conseil d'administration élit parmi ses membres, un bureau composé de :
 * Un-e- trésorier-e-, et, si besoin est, un-e- trésorier-e- adjoint-e-.
 
 
-ARTICLE 13 - INDEMNITÉS
+ARTICLE 12 - INDEMNITÉS
 -----------------------
 
 Toutes les fonctions, y compris celles des membres du conseil d'administration et du bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par l'accomplissement de leur mandat sont remboursés sur justificatifs. Le rapport financier présenté à l'assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
 
-ARTICLE - 14 - RÈGLEMENT INTÉRIEUR
+ARTICLE 13 - RÈGLEMENT INTÉRIEUR
 ----------------------------------
 
 Un règlement intérieur peut être établi par l'assemblée générale.
 
 
-ARTICLE - 15 - DISSOLUTION
+ARTICLE 14 - DISSOLUTION
 --------------------------
 
 En cas de dissolution prononcée selon les modalités prévues à l'article 10, un ou plusieurs liquidateurs sont nommés, et l'actif, s'il y a lieu, est dévolu conformément aux décisions de l'assemblée générale extraordinaire qui statue sur la dissolution.
