@@ -101,7 +101,7 @@ Toutes les fonctions, y compris celles des membres du conseil d'administration e
 ARTICLE 13 - RÈGLEMENT INTÉRIEUR
 ----------------------------------
 
-Un règlement intérieur peut être établi par l'assemblée générale.
+Le règlement intérieur, en cours de rédaction, aura pour objet l'encadrement de l'hébergement numérique cité dans l'article 2 (règles de bonne conduite à l'usage des membres). Il proposera en outre des modalités d'animation de l'association (fréquence des rendez-vous) et précisera l'organisation interne du bureau (communications diverses : transmission des comptes-rendus, communication externe...). Il sera ratifié par les membres de l'association lors de la première assemblée générale.
 
 
 ARTICLE 14 - DISSOLUTION
