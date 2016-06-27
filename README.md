@@ -14,7 +14,7 @@ Il est fondé entre les adhérents aux présents statuts une association régie 
 ARTICLE 2 - OBJET
 -----------------
 
-Cette association a pour objet la mise à disposition de ses membre de services d'auto-hébergement numérique.
+Cette association a pour objet la mise à disposition de ses membres de services d'autohébergement numérique.
 
 
 ARTICLE 3 - SIÈGE SOCIAL
@@ -32,7 +32,7 @@ La durée de l'association est illimitée.
 ARTICLE 5 - COMPOSITION
 -----------------------
 
-Sont membres de l'association les personnes physiques qui adhèrent aux présents statuts, ont versé leur cotisation annuelle et ont été cooptés par les membres à l'unanimité de l'assemblée générale permanente.
+Sont membres de l'association les personnes physiques qui adhèrent aux présents statuts, ont versé leur cotisation annuelle et ont été cooptées par les membres à l'unanimité de l'assemblée générale permanente.
 
 
 ARTICLE 6 - RADIATIONS
@@ -56,10 +56,10 @@ Les ressources de l'association comprennent :
 * Toutes les ressources autorisées par les lois et règlements en vigueur.
 
 
-ARTICLE 8 - MOYENS D'ACTIONS
+ARTICLE 8 - MOYENS D'ACTION
 ----------------------------
 
-L'association prend toute initiative visant à défendre son objet. Elle dispose de tous les moyens d'actions autorisés par les lois et les règlements.
+L'association prend toute initiative visant à défendre son objet. Elle dispose de tous les moyens d'action autorisés par les lois et les règlements.
 
 
 ARTICLE 9 - ASSEMBLÉE GÉNÉRALE ORDINAIRE
