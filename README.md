@@ -23,7 +23,7 @@ ARTICLE 3 - SIÈGE SOCIAL
 Le siège social est initialement fixé au **FIXME**.
 
 
-Article 4 - DURÉE
+ARTICLE 4 - DURÉE
 -----------------
 
 La durée de l'association est illimitée.
