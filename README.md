@@ -14,7 +14,8 @@ Il est fondé entre les adhérents aux présents statuts une association régie 
 ARTICLE 2 - OBJET
 -----------------
 
-Cette association a pour objet la mise à disposition de ses membres de services d'autohébergement numérique. Elle pourra en outre se consacrer à toute activité liée aux technologies de l'information, notamment en matière de formation et de diffusion de connaissances.
+Cette association a pour objet la mise à disposition pour ses membres de services d’autohébergement numérique, dans un cadre ouvert
+et documenté publiquement, ainsi que la mise en place d’éventuelles actions de formation et de communication, à destination du public, en lien ou non avec l'activité précitée.
 
 
 ARTICLE 3 - SIÈGE SOCIAL
