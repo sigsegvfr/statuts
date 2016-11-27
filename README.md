@@ -1,116 +1,150 @@
+Article premier - Nom
+=====================
 
-Basé sur :
+Il est fondé entre les adhérents aux présents statuts une association
+régie par la loi du 1er juillet 1901 ayant pour titre : sigsegv.
 
-* https://www.service-public.fr/associations/vosdroits/R2631
-* http://blog.bentobako.org/index.php?post/2009/03/23/Niadomo-saison-1-%3A-l-auto-h%C3%A9bergement-par-l-exemple.-Premier-%C3%A9pisode-%3A-les-statuts
-* https://www.ffdn.org/fr/statuts
+Article 2 - Object
+==================
 
-ARTICLE PREMIER - NOM
----------------------
+Cette association a pour objet la mise à disposition pour ses membres de
+services d’autohébergement numérique, dans un cadre ouvert et documenté
+publiquement, ainsi que la mise en place d’éventuelles actions de
+formation et de communication, à destination du public, en lien ou non
+avec l’activité précitée.
 
-Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 ayant pour titre : sigsegv.
+Article 3 - Siège social
+========================
 
+Le siège social est initialement fixé au 33 bis avenue du docteur
+Durand, F-94110, Arcueil.
 
-ARTICLE 2 - OBJET
------------------
+Article 4 - Durée
+=================
 
-Cette association a pour objet la mise à disposition pour ses membres de services d’autohébergement numérique, dans un cadre ouvert
-et documenté publiquement, ainsi que la mise en place d’éventuelles actions de formation et de communication, à destination du public, en lien ou non avec l'activité précitée.
+La durée de l’association est illimitée.
 
+Article 5 - Composition
+=======================
 
-ARTICLE 3 - SIÈGE SOCIAL
-------------------------
+Sont membres de l’association les personnes physiques qui adhèrent aux
+présents statuts, ont versé leur cotisation annuelle et ont été cooptées
+par les membres à l’unanimité de l’assemblée générale permanente.
 
-Le siège social est initialement fixé au **FIXME**.
-
-
-ARTICLE 4 - DURÉE
------------------
-
-La durée de l'association est illimitée.
-
-
-ARTICLE 5 - COMPOSITION
------------------------
-
-Sont membres de l'association les personnes physiques qui adhèrent aux présents statuts, ont versé leur cotisation annuelle et ont été cooptées par les membres à l'unanimité de l'assemblée générale permanente.
-
-
-ARTICLE 6 - RADIATIONS
-----------------------
+Article 6 - Radiations
+======================
 
 La qualité de membre se perd par :
 
-* démission,
-* décès de fait,
-* radiation, ou
-* exclusion.
+-   démission,
 
+-   décès de fait,
 
-ARTICLE 7 - RESSOURCES
-----------------------
+-   radiation, ou
 
-Les ressources de l'association comprennent :
+-   exclusion.
 
-* Le montant des droits d'entrée et des cotisations ;
-* Les subventions de l'État, des départements et des communes ;
-* Toutes les ressources autorisées par les lois et règlements en vigueur.
+Article 7 - Ressources
+======================
 
+Les ressources de l’association comprennent :
 
-ARTICLE 8 - MOYENS D'ACTION
-----------------------------
+-   Le montant des droits d’entrée et des cotisations ;
 
-L'association prend toute initiative visant à défendre son objet. Elle dispose de tous les moyens d'action autorisés par les lois et les règlements.
+-   Les subventions de l’État, des départements et des communes ;
 
+-   Toutes les ressources autorisées par les lois et règlements en
+    vigueur.
 
-ARTICLE 9 - ASSEMBLÉE GÉNÉRALE ORDINAIRE
-----------------------------------------
+Article 8 - Moyens d’actions
+============================
 
-L'Assemblée Générale comprend tous les membres de l'association à quelque titre qu'ils soient. Elle se réunit chaque année au plus tôt au début du mois de mai, au plus tard à la fin du mois de juillet.
+L’association prend toute initiative visant à défendre son objet. Elle
+dispose de tous les moyens d’action autorisés par les lois et les
+règlements.
 
-L'Assemblée Générale se réunit sur convocation du président, ou à la demande d'au moins un tiers des membres. L'ordre du jour est établi par le président, et communiqué à l'ensemble des membres au moins un mois avant la date de l'Assemblée Générale. La convocation de l'Assemblée Générale indique s'il s'agit d'une assemblée physique, ou d'une assemblée électronique.
+Article 9 - Assemblée générale ordinaire
+========================================
 
-Les décisions sont prises à la majorité des voix des membres présents ou représentés.
+L’Assemblée Générale comprend tous les membres de l’association à
+quelque titre qu’ils soient. Elle se réunit chaque année au plus tôt au
+début du mois de mai, au plus tard à la fin du mois de juillet.
 
+L’Assemblée Générale se réunit sur convocation du président, ou à la
+demande d’au moins un tiers des membres. L’ordre du jour est établi par
+le président, et communiqué à l’ensemble des membres au moins un mois
+avant la date de l’Assemblée Générale. La convocation de l’Assemblée
+Générale indique s’il s’agit d’une assemblée physique, ou d’une
+assemblée électronique.
 
-ARTICLE 10 - ASSEMBLÉE GÉNÉRALE EXTRAORDINAIRE
-----------------------------------------------
+Les décisions sont prises à la majorité des voix des membres présents ou
+représentés.
 
-Si besoin est, ou sur la demande de la moitié plus un des membres inscrits, le président peut convoquer une assemblée générale extraordinaire, suivant les modalités prévues aux présents statuts et uniquement pour modification des statuts ou la dissolution ou pour des actes portant sur des immeubles.
+Article 10 - Assemblée général extraordinaire
+=============================================
 
-Les modalités de convocation sont les mêmes que pour l'assemblée générale ordinaire.
+Si besoin est, ou sur la demande de la moitié plus un des membres
+inscrits, le président peut convoquer une assemblée générale
+extraordinaire, suivant les modalités prévues aux présents statuts et
+uniquement pour modification des statuts ou la dissolution ou pour des
+actes portant sur des immeubles.
+
+Les modalités de convocation sont les mêmes que pour l’assemblée
+générale ordinaire.
 
 Les délibérations sont prises à la majorité des suffrages exprimés.
 
+Article 11 - Le bureau
+======================
 
-ARTICLE 11 - LE BUREAU
-----------------------
+Le conseil d’administration élit parmi ses membres, un bureau composé de
+:
 
-Le conseil d'administration élit parmi ses membres, un bureau composé de :
+-   Un-e- président-e- ;
 
-* Un-e- président-e- ;
-* Un-e- ou plusieurs vice-président-e-s ;
-* Un-e- secrétaire et, s'il y a lieu, un-e- secrétaire adjoint-e- ;
-* Un-e- trésorier-e-, et, si besoin est, un-e- trésorier-e- adjoint-e-.
+-   Un-e- ou plusieurs vice-président-e-s ;
 
+-   Un-e- secrétaire et, s’il y a lieu, un-e- secrétaire adjoint-e- ;
 
-ARTICLE 12 - INDEMNITÉS
------------------------
+-   Un-e- trésorier-e-, et, si besoin est, un-e- trésorier-e-
+    adjoint-e-.
 
-Toutes les fonctions, y compris celles des membres du conseil d'administration et du bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par l'accomplissement de leur mandat sont remboursés sur justificatifs. Le rapport financier présenté à l'assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
+Article 12 - Indemnités
+=======================
 
-ARTICLE 13 - RÈGLEMENT INTÉRIEUR
-----------------------------------
+Toutes les fonctions, y compris celles des membres du conseil
+d’administration et du bureau, sont gratuites et bénévoles. Seuls les
+frais occasionnés par l’accomplissement de leur mandat sont remboursés
+sur justificatifs. Le rapport financier présenté à l’assemblée générale
+ordinaire présente, par bénéficiaire, les remboursements de frais de
+mission, de déplacement ou de représentation.
 
-Le règlement intérieur, en cours de rédaction, aura pour objet l'encadrement de l'hébergement numérique cité dans l'article 2 (règles de bonne conduite à l'usage des membres). Il proposera en outre des modalités d'animation de l'association (fréquence des rendez-vous) et précisera l'organisation interne du bureau (communications diverses : transmission des comptes-rendus, communication externe...). Il sera ratifié par les membres de l'association lors de la première assemblée générale.
+Article 13 - Règlement intérieur
+================================
 
+Le règlement intérieur, en cours de rédaction, aura pour objet
+l’encadrement de l’hébergement numérique cité dans l’article 2 (règles
+de bonne conduite à l’usage des membres). Il proposera en outre des
+modalités d’animation de l’association (fréquence des rendez-vous) et
+précisera l’organisation interne du bureau (communications diverses :
+transmission des comptes-rendus, communication externe...). Il sera
+ratifié par les membres de l’association lors de la première assemblée
+générale.
 
-ARTICLE 14 - DISSOLUTION
---------------------------
+Article 14 - Dissolution
+========================
 
-En cas de dissolution prononcée selon les modalités prévues à l'article 10, un ou plusieurs liquidateurs sont nommés, et l'actif, s'il y a lieu, est dévolu conformément aux décisions de l'assemblée générale extraordinaire qui statue sur la dissolution.
+En cas de dissolution prononcée selon les modalités prévues à l’article
+10, un ou plusieurs liquidateurs sont nommés, et l’actif, s’il y a lieu,
+est dévolu conformément aux décisions de l’assemblée générale
+extraordinaire qui statue sur la dissolution.
 
+Article 15 - Membres fondateurs, dispositions transitoires
+==========================================================
 
-Fait à **FIXME**, le **FIXME**
+Les quatres membres fondateurs sont chargés de désigner les dirigeants
+de l’association pour le premier exercice, jusqu’à la tenue de la
+première assemblée générale.
 
-Signatures de deux représentants (nom, prénom et fonction) au minimum, nécessaires pour la formalité de déclaration de l'association.
+Fait à Arcueil, le 1er Décembre 2016, établi en 10 exemplaires originaux par
+les membres fondateurs.
