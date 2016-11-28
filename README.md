@@ -27,11 +27,14 @@ La durée de l’association est illimitée.
 Article 5 - Composition
 =======================
 
-Sont membres de l’association les personnes physiques qui adhèrent aux
-présents statuts, ont versé leur cotisation annuelle et ont été cooptées
-par les membres à l’unanimité de l’assemblée générale permanente.
+Sont membres de l’association les personnes physiques qui, s'étant présentés candidats à l'adhésion en amont d'une assemblée générale (ou ayant été cooptés) et ayant été acceptés par les membres de cette assemblée générale, adhèrent aux présents statuts et ont versé leur cotisation annuelle.
 
-Article 6 - Radiations
+Article 6 - Admission et cotisation annuelle
+=======================
+
+La cotisation annuelle sera fixée pour la première année de fonctionnement de l'association par la première assemblée générale, en fonction du nombre total de membres de l'association (membres fondateurs et membres nouvellement admis). Elle pourra être revue dès que nécessaire lors d'une assemblée générale.
+
+Article 7 - Radiations
 ======================
 
 La qualité de membre se perd par :
@@ -44,7 +47,7 @@ La qualité de membre se perd par :
 
 -   exclusion.
 
-Article 7 - Ressources
+Article 8 - Ressources
 ======================
 
 Les ressources de l’association comprennent :
@@ -56,14 +59,14 @@ Les ressources de l’association comprennent :
 -   Toutes les ressources autorisées par les lois et règlements en
     vigueur.
 
-Article 8 - Moyens d’actions
+Article 9 - Moyens d’actions
 ============================
 
 L’association prend toute initiative visant à défendre son objet. Elle
 dispose de tous les moyens d’action autorisés par les lois et les
 règlements.
 
-Article 9 - Assemblée générale ordinaire
+Article 10 - Assemblée générale ordinaire
 ========================================
 
 L’Assemblée Générale comprend tous les membres de l’association à
@@ -94,7 +97,7 @@ générale ordinaire.
 
 Les délibérations sont prises à la majorité des suffrages exprimés.
 
-Article 11 - Le bureau
+Article 12 - Le bureau
 ======================
 
 Le conseil d’administration élit parmi ses membres, un bureau composé de
@@ -109,7 +112,7 @@ Le conseil d’administration élit parmi ses membres, un bureau composé de
 -   Un-e- trésorier-e-, et, si besoin est, un-e- trésorier-e-
     adjoint-e-.
 
-Article 12 - Indemnités
+Article 13 - Indemnités
 =======================
 
 Toutes les fonctions, y compris celles des membres du conseil
@@ -119,7 +122,7 @@ sur justificatifs. Le rapport financier présenté à l’assemblée générale
 ordinaire présente, par bénéficiaire, les remboursements de frais de
 mission, de déplacement ou de représentation.
 
-Article 13 - Règlement intérieur
+Article 14 - Règlement intérieur
 ================================
 
 Le règlement intérieur, en cours de rédaction, aura pour objet
@@ -131,7 +134,7 @@ transmission des comptes-rendus, communication externe...). Il sera
 ratifié par les membres de l’association lors de la première assemblée
 générale.
 
-Article 14 - Dissolution
+Article 15 - Dissolution
 ========================
 
 En cas de dissolution prononcée selon les modalités prévues à l’article
@@ -139,7 +142,7 @@ En cas de dissolution prononcée selon les modalités prévues à l’article
 est dévolu conformément aux décisions de l’assemblée générale
 extraordinaire qui statue sur la dissolution.
 
-Article 15 - Membres fondateurs, dispositions transitoires
+Article 16 - Membres fondateurs, dispositions transitoires
 ==========================================================
 
 Les quatres membres fondateurs sont chargés de désigner les dirigeants
