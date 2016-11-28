@@ -32,7 +32,7 @@ Sont membres de l’association les personnes physiques qui, s'étant présenté
 Article 6 - Admission et cotisation annuelle
 =======================
 
-La cotisation annuelle sera fixée pour la première année de fonctionnement de l'association par la première assemblée générale, en fonction du nombre total de membres de l'association (membres fondateurs et membres nouvellement admis). Elle pourra être revue dès que nécessaire lors d'une assemblée générale.
+La cotisation annuelle sera fixée pour la première année de fonctionnement de l'association par la première assemblée générale, en fonction du nombre total de membres de l'association (membres fondateurs et membres nouvellement admis). Elle pourra être réévaluée dès que nécessaire lors d'une assemblée générale.
 
 Article 7 - Radiations
 ======================
