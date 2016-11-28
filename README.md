@@ -4,7 +4,7 @@ Article premier - Nom
 Il est fondé entre les adhérents aux présents statuts une association
 régie par la loi du 1er juillet 1901 ayant pour titre : sigsegv.
 
-Article 2 - Object
+Article 2 - Objet
 ==================
 
 Cette association a pour objet la mise à disposition pour ses membres de
