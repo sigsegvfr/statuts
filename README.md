@@ -27,7 +27,7 @@ La durée de l’association est illimitée.
 Article 5 - Composition
 =======================
 
-Sont membres de l’association les personnes physiques qui, s'étant présentés candidats à l'adhésion en amont d'une assemblée générale (ou ayant été cooptés) et ayant été acceptés par les membres de cette assemblée générale, adhèrent aux présents statuts et ont versé leur cotisation annuelle.
+Sont membres de l’association les personnes physiques qui, s'étant présentés candidats à l'adhésion en amont d'une assemblée générale ou ayant été cooptés et ayant été acceptés par les membres de cette assemblée générale, adhèrent aux présents statuts et ont versé leur cotisation annuelle.
 
 Article 6 - Admission et cotisation annuelle
 =======================
