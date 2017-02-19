@@ -1,9 +1,6 @@
 <span>  
 </span>
 
-<span>  
-</span>
-
 Article premier - Nom
 =====================
 
@@ -165,4 +162,3 @@ première assemblée générale.
 
 Fait à Arcueil, le 1er Août 2016, établi en 5 exemplaires originaux par
 les membres fondateurs.
-
