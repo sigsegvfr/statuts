@@ -19,8 +19,7 @@ avec l’activité précitée.
 Article 3 - Siège social
 ========================
 
-Le siège social est initialement fixé au 33 bis avenue du docteur
-Durand, F-94110, Arcueil.
+Le siège social est fixé au 3 rue Félix Poulat, F-38000, Grenoble.
 
 Article 4 - Durée
 =================
@@ -162,3 +161,4 @@ première assemblée générale.
 
 Fait à Arcueil, le 1er Août 2016, établi en 5 exemplaires originaux par
 les membres fondateurs.
+
